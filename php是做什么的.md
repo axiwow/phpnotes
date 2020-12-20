@@ -134,6 +134,7 @@ $cmd = `ping 127.0.0.1`;print $cmd;
 
 强制数据类型转化int,bool,float,string,array,object
 
+
 (int)$a;intval(),floatval(),strval()返回变量的整数值
 
 浮点数值，字符串值settype(var,type)包括，bool,int,string,float,array,object,null
